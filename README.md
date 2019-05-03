@@ -12,5 +12,6 @@ El programa se puede ejecutar mediante línea de comandos con `python scrapper.p
 Además, muestra el progreso total de ejecución en la consola de comandos.
 
 > __Desarrollado por *Emilio Crespo Perán* ©__<br>
-__Perfil de [Google +](https://plus.google.com/104659634712390045452)__<br>
-__Blog personal: https://stacknowledge.blogspot.com/__
+Perfil de [LinkedIn](https://www.linkedin.com/in/emilio-crespo-aa95a8a5/)<br>
+Blog personal [Stacknowledge](https://stacknowledge.blogspot.com/)<br>
+Correo: emiliocrespoperan@gmail.com
